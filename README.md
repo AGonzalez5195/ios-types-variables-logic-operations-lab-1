@@ -11,7 +11,7 @@
 
 ## 1. Which data type would be the best to use for recording the total balance of an online shopping cart?
 
-// your answer here
+// Double
 
 ***
 ## 2. Which of the following variable declarations is **incorrect**?
@@ -23,7 +23,7 @@ let version: Double = 3.0
 
 let emotion: String = ":)"
 
-let grade: Char = "a"
+let grade: Char = "a" <This is incorrect
 ```
 
 ***
